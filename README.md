@@ -10,5 +10,11 @@ A way people who want to know how to remove different type of stains so that the
 
 # Technologies & Tools
 - SwiftUI 
-- Xcode,
+- Xcode
 - Sketch
+
+#App Demo
+
+[Simulator Screen Recording - iPhone 14 - 2023-01-13 at 23.51.48.mp4.zip](https://github.com/Amjadeel/Blot1/files/10415673/Simulator.Screen.Recording.-.iPhone.14.-.2023-01-13.at.23.51.48.mp4.zip)
+
+#Challenge Summary
