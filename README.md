@@ -9,6 +9,6 @@ A way people who want to know how to remove different type of stains so that the
 
 
 # Technologies & Tools
-SwiftUI
-Xcode
-Sketch
+-SwiftUI
+-Xcode
+-Sketch
