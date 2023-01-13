@@ -25,6 +25,6 @@ A way people who want to know how to remove different type of stains so that the
 - English
 
 ## Authors
-[@ReemAlk](https://github.com/ReemAlk)
-https://github.com/Amjadeel
+- [@ReemAlk](https://github.com/ReemAlk)
+- [@Amjadeel](https://github.com/Amjadeel)
 
