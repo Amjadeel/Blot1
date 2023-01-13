@@ -5,3 +5,10 @@ An IOS App that helps / provides a way for users who needs to know how to clean 
 Make an inclusive solution that helps personal hygieneSolution 
 
 ## Concept
+A way people who want to know how to remove different type of stains so that they maintain personal hygiene
+
+
+# Technologies & Tools
+SwiftUI
+Xcode
+Sketch
